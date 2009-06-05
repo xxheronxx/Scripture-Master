@@ -1,0 +1,14 @@
+.comment
+  .comment_head
+    %img{:src => gravitar_url(c.user.email) }
+    .comment_identification
+      %h4= link_to c.user.full_name, user_path(c.user_id)
+      %p
+        %small
+          =h time_ago_in_words(c.created_at)
+          ago
+  
+  %p.comment_body=h c.body
+
+  .hr
+    %hr

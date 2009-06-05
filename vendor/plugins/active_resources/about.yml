@@ -1,0 +1,7 @@
+author: Tony Payne <tony@lonestarsoftware.net>
+summary: Active Resources
+homepage: http://lonestarsoftware.net
+plugin: http://svn.lonestarsoftware.net/plugins/active_resources/releases/0.1.0/active_resources
+license: MIT
+version: 0.1.0
+rails_version: 1.2+

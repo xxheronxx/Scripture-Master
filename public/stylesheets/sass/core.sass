@@ -1,0 +1,167 @@
+!body_bc = #E3EEFC
+!head_bc = #366196
+!main_nav_a_c = #F9DC5B
+!main_nav_a_c_hover = #fff
+!content_bc = #ffffff
+!content_brdrc = #999
+!input_brdrc = #fff
+!input_bc = #ffc
+!input_font_size = 18px
+!font_size = 14px
+!notice_bc = #CCFFCC
+!notice_brdrc = #8CD98C
+!error_bc = #FFCCCC
+!error_brdrc = #D98C8C
+!shout_out_bc = #F9DC5B
+
+.clear
+  :clear both
+
+.hidden
+  :display none
+
+body
+  :background-color= !body_bc
+  :font-family Verdana
+  :font-size= !font_size
+  :margin 0
+  :padding 0
+
+#page_header, #content, #footer
+  :padding 10px
+
+#page_header
+  :background-color= !head_bc
+  :margin-top 0
+  :color #fff
+  h1
+  h3
+    :color= !shout_out_bc
+  #main_nav
+    :margin-bottom 30px
+    a
+      :color= !main_nav_a_c
+    a:hover
+      :color= !main_nav_a_c_hover
+
+#content
+  :background-color= !content_bc
+  :border 2px solid
+  :border-color= !content_brdrc
+  :margin -25px 40px 0 40px
+
+div#scripture_text, #references
+  :float left
+
+div#scripture_text
+  :width 60%
+  :margin-right 10px
+
+#references
+  :width 35%
+  :border-left 2px dashed
+  :border-color= !content_brdrc
+  :margin-bottom 20px
+  h2, p, form
+    :margin-left 10px
+    :margin-right 10px
+  form
+    :margin-bottom 20px
+    textarea, input
+      :width 100%
+    textarea
+      :height 100px
+
+#comments
+  :clear left
+  :border-top 2px dashed
+  :border-color= !content_brdrc
+  
+  #comment_form_in_scripture
+    :width 30%
+    :float right
+    textarea
+      :width 99%
+      :height 200px
+
+  .comment
+    :margin 20px 10px
+    :padding 10px 0
+    :width 65%
+    :float left
+
+    .comment_head
+      :width 170px
+      :float right
+
+      img
+        :width 80px
+        :float left
+
+      .comment_identification
+        :width 80px
+        :float left
+        :margin-left 10px
+
+        h4
+          :margin-top 0
+          :margin-bottom 10px
+
+    p.comment_body
+      :background-color= !input_bc
+      :margin 0 10px
+      :width 55%
+      :padding 10px 10px 30px 10px
+      :float right
+      :clear left
+
+#footer
+  :text-align center
+
+.hr
+  :clear both
+  hr
+    :display none
+
+form
+  :padding 5px 10px 
+
+fieldset, legend
+  :border 1px solid
+  :border-color= !input_brdrc
+
+fieldset
+  :background-color= !shout_out_bc
+
+legend
+  :background-color #333
+  :padding 5px
+  :color= !input_bc
+
+label
+  :font-size 16px
+
+input, textarea
+  :border 1px solid 
+  :border-color= !input_brdrc
+  :background= !input_bc
+  :font-size= !input_font_size
+  :padding 2px
+
+table
+  tr
+    td.rt
+      :text-align right
+
+#error, #notice, .errorExplanation
+  :padding 5px
+
+#error, .errorExplanation
+  :background-color= !error_bc
+  :border 1px solid
+  :border-color= !error_brdrc
+
+#notice
+  :background-color= !notice_bc
+  :border 1px solid
+  :border-color= !notice_brdrc

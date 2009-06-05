@@ -1,0 +1,40 @@
+- form_for(@scripture) do |f|
+  
+%fieldset#scripture_source
+  %legend Source
+
+  %p#source_description= "If you want your by default, the application expects you to enter book/chapter/verse for a scripture.  You don't have to, of course.  You can instead choose to enter a talk using Author/Title/Paragraph, etc.  If you do enter a scripture, the aplication will try to assign a url for the source on " + link_to("LDS.org", "http://scriptures.lds.org") 
+  %table
+    %tr
+      %td.rt
+        %label{:for => "scripture_book"} Book/Speaker/Magazine
+      %td
+        = f.text_field :book
+    %tr
+      %td.rt
+        %label{:for => "scripture_chapter"} Chapter/Article Title
+      %td
+        = f.text_field :chapter
+    %tr
+      %td.rt
+        %label{:for => "scripture_verse"} Verse/Paragraph number
+      %td
+        = f.text_field :verse
+    %tr
+      %td.rt
+        %label{:for => "scripture_url"} Url
+      %td
+        = f.text_field :url
+
+%fieldset#scripture_text
+  %legend Text
+
+  = f.text_area :text
+
+.hr
+  %hr
+
+%p
+  = f.submit "Update"
+
+- end

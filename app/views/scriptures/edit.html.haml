@@ -1,0 +1,9 @@
+%h1= "Editing scripture"
+
+= error_messages_for :scripture
+
+= render :partial => "form"
+
+= link_to 'Show', @scripture 
+|
+= link_to 'Back', scriptures_path

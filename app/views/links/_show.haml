@@ -1,0 +1,9 @@
+%div{ :id => l.dom_id }
+  From
+  = link_to l.refered_from.full_reference, scripture_path(l.refered_from)
+
+  to 
+  = link_to l.refered_to.full_reference, scripture_path(l.refered_to)
+
+  %p
+    =h l.note

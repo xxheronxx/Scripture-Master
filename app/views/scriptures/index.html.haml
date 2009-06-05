@@ -1,0 +1,19 @@
+%h1 Currently in the Chain:
+%h3 All of the scriptures, articles, talks, etc.
+
+%table
+  %thead
+    %th Source
+    %th Text
+  - for scripture in @scriptures
+  %tr
+    %td= link_to scripture.full_reference, scripture
+    %td=h scripture.text
+    %td= link_to 'Show', scripture
+    %td= link_to 'Edit', edit_scripture_path(scripture)
+    %td= link_to 'Destroy', scripture, :confirm => 'Are you sure?', :method => :delete
+  -end
+
+%br/
+
+= link_to 'New scripture', new_scripture_path

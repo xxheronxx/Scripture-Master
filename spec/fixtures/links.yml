@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  scripture1_id: 1
+  scripture2_id: 1
+  note: MyText
+
+two:
+  scripture1_id: 1
+  scripture2_id: 1
+  note: MyText

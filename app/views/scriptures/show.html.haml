@@ -1,0 +1,65 @@
+-if !@scripture.url.nil?
+%h1= link_to @scripture.book + ' ' + @scripture.chapter + ':' + @scripture.verse, @scripture.url
+-else
+%h1=h (@scripture.book + ' ' + @scripture.chapter + ':' + @scripture.verse)
+-end
+- if logged_in? and @scripture.user_id == current_user.id
+  %p
+    %small
+      = link_to 'Edit', edit_scripture_path(@scripture) 
+      \|
+      = link_to 'Back', scriptures_path
+
+#scripture_text
+  %h2 Text:
+  %p=h @scripture.text
+
+#references
+  %h2 References
+
+  - unless @scripture.linked_tos.blank?
+    - @scripture.linked_tos.each do |lt|
+      = #render :partial => "links/show", :locals => {:l => lt}
+      %p
+        = "From " + link_to(lt.refered_from.full_reference, scripture_path(lt.refered_from))
+        %small
+          (
+          = link_to "Link Details", link_path(lt)
+          )
+  - else
+    %p This scripture does not link to any others yet
+
+  - unless @scripture.linked_froms.blank?
+    - @scripture.linked_froms.each do |lf|
+      = #render :partial => "links/show", :locals => {:l => lf}
+      %p
+        = "To " + link_to(lf.refered_to.full_reference, scripture_path(lf.refered_to))
+        %small
+          (
+          = link_to "Link Details", link_path(lf)
+          )
+  - else
+    %p This scripture is not linked to by any others yet.
+
+  #link_form_in_scripture{:class => authenticated_only_block}
+    = render :partial =>"links/link_form", :locals => {:scriptures => @scriptures, :current_scripture => @scripture}
+
+#comments
+  %h2 Comments
+
+  - unless @scripture.comments.blank?
+
+    - @scripture.comments.each do |c|
+      =render :partial => "comments/show", :locals => {:c => c}
+  - else
+    %p No comments for this scripture yet.
+
+  #comment_form_in_scripture{:class => authenticated_only_block}
+    - form_for(:comment, @comment, :url => {:controller => 'comments', :action => 'create'}) do |f|
+
+      = render :partial => "comments/comment_form", :locals => {:f => f, :id => @scripture.id, :type => "scripture"}
+  .hr
+    %hr
+- if logged_in? and current_user.id == 1
+  .debug
+    = debug(@scripture)

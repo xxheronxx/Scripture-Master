@@ -1,0 +1,22 @@
+- form_for(:link, @link, :url => {:controller=>"links", :action=>'create'}) do |f|
+%fieldset
+  %legend Add another link to the chain!
+  %p
+    %b Refering Scripture
+    %br/
+    = f.select :refered_from_id, scriptures.collect{|s| [s.full_reference, s.id]}, {:selected => current_scripture.id, :include_blank => true}
+
+  %p
+    %b Refered Scripture
+    %br/
+    = f.select :refered_to_id, scriptures.collect{|s| [s.full_reference, s.id]}
+
+  %p
+    %b Note
+    %br/
+    = f.text_area :note
+
+  %p
+    = f.submit "Update" 
+
+- end

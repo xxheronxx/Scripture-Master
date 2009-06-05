@@ -1,0 +1,1173 @@
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000164)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000102)[0m   [0mBEGIN[0m
+Rendering /scriptures/show.html.erb
+  [4;36;1mSQL (0.000174)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000133)[0m   [0mBEGIN[0m
+Rendering /scriptures/new.html.erb
+  [4;36;1mSQL (0.000189)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000139)[0m   [0mBEGIN[0m
+Rendering /scriptures/index.html.erb
+  [4;36;1mSQL (0.000136)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000120)[0m   [0mBEGIN[0m
+Rendering /scriptures/edit.html.erb
+  [4;36;1mSQL (0.000154)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000144)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003592)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000202)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000179)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000145)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000157)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000171)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000134)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000133)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000136)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000132)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000133)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000133)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000134)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000158)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000137)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000134)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000136)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000129)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000147)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000135)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000139)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000152)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#destroy (for 0.0.0.0 at 2007-12-19 00:08:01) [DELETE]
+  Session ID: 
+  Parameters: {"action"=>"destroy", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures
+Completed in 0.00296 (337 reqs/sec) | DB: 0.00814 (274%) | 302 Found [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000143)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000125)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#destroy (for 0.0.0.0 at 2007-12-19 00:08:01) [DELETE]
+  Session ID: 
+  Parameters: {"action"=>"destroy", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures
+Completed in 0.00036 (2785 reqs/sec) | DB: 0.00027 (74%) | 302 Found [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000121)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000114)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#destroy (for 0.0.0.0 at 2007-12-19 00:08:01) [DELETE]
+  Session ID: 
+  Parameters: {"action"=>"destroy", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures
+Completed in 0.00036 (2785 reqs/sec) | DB: 0.00024 (65%) | 302 Found [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000155)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000141)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 00:08:01) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00068 (1474 reqs/sec) | Rendering: 0.00028 (40%) | DB: 0.00030 (43%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000117)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 00:08:01) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00049 (2029 reqs/sec) | DB: 0.00024 (49%) | 302 Found [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000148)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000102)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 00:08:01) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00048 (2100 reqs/sec) | DB: 0.00025 (52%) | 302 Found [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000142)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000092)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 00:08:01) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00045 (2236 reqs/sec) | DB: 0.00023 (52%) | 302 Found [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000115)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000160)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 00:08:01) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00044 (2263 reqs/sec) | DB: 0.00027 (62%) | 302 Found [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000111)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#create (for 0.0.0.0 at 2007-12-19 00:08:01) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"scriptures", "scripture"=>{}}
+Rendering scriptures/new
+Completed in 0.00071 (1406 reqs/sec) | Rendering: 0.00031 (44%) | DB: 0.00024 (34%) | 200 OK [http://test.host/scriptures?]
+  [4;35;1mSQL (0.000147)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#create (for 0.0.0.0 at 2007-12-19 00:08:01) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"scriptures", "scripture"=>{}}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00048 (2070 reqs/sec) | DB: 0.00028 (57%) | 302 Found [http://test.host/scriptures?]
+  [4;35;1mSQL (0.000120)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#create (for 0.0.0.0 at 2007-12-19 00:08:01) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"scriptures", "scripture"=>{}}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00045 (2226 reqs/sec) | DB: 0.00025 (56%) | 302 Found [http://test.host/scriptures?]
+  [4;35;1mSQL (0.000117)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000124)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00046 (2183 reqs/sec) | Rendering: 0.00025 (54%) | DB: 0.00024 (52%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000109)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00051 (1975 reqs/sec) | Rendering: 0.00028 (55%) | DB: 0.00024 (47%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;35;1mSQL (0.000215)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000117)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00056 (1788 reqs/sec) | Rendering: 0.00032 (57%) | DB: 0.00033 (59%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;35;1mSQL (0.000185)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000112)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00047 (2126 reqs/sec) | Rendering: 0.00025 (53%) | DB: 0.00030 (63%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00069 (1445 reqs/sec) | Rendering: 0.00030 (42%) | DB: 0.00026 (37%) | 200 OK [http://test.host/scriptures/new]
+  [4;35;1mSQL (0.000122)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000103)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00069 (1453 reqs/sec) | Rendering: 0.00027 (39%) | DB: 0.00023 (32%) | 200 OK [http://test.host/scriptures/new]
+  [4;35;1mSQL (0.000144)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000110)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00061 (1652 reqs/sec) | Rendering: 0.00025 (41%) | DB: 0.00025 (41%) | 200 OK [http://test.host/scriptures/new]
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000107)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00059 (1703 reqs/sec) | Rendering: 0.00024 (41%) | DB: 0.00023 (39%) | 200 OK [http://test.host/scriptures/new]
+  [4;35;1mSQL (0.000118)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000108)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00058 (1733 reqs/sec) | Rendering: 0.00024 (41%) | DB: 0.00023 (39%) | 200 OK [http://test.host/scriptures/new]
+  [4;35;1mSQL (0.000114)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Completed in 0.00047 (2136 reqs/sec) | Rendering: 0.00007 (15%) | DB: 0.00025 (52%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000136)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000107)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Completed in 0.00044 (2298 reqs/sec) | Rendering: 0.00007 (16%) | DB: 0.00024 (55%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000120)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000107)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Completed in 0.00043 (2299 reqs/sec) | Rendering: 0.00007 (16%) | DB: 0.00023 (52%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000118)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000127)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00080 (1249 reqs/sec) | Rendering: 0.00037 (46%) | DB: 0.00025 (30%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000146)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000111)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00064 (1559 reqs/sec) | Rendering: 0.00027 (42%) | DB: 0.00026 (40%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000111)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000101)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00062 (1607 reqs/sec) | Rendering: 0.00026 (41%) | DB: 0.00021 (34%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000132)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000101)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00062 (1610 reqs/sec) | Rendering: 0.00026 (41%) | DB: 0.00023 (37%) | 200 OK [http://test.host/scriptures/1]
+  [4;35;1mSQL (0.000139)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Completed in 0.00045 (2246 reqs/sec) | Rendering: 0.00007 (15%) | DB: 0.00027 (61%) | 200 OK [http://test.host/scriptures]
+  [4;35;1mSQL (0.000119)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000108)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Completed in 0.00074 (1346 reqs/sec) | Rendering: 0.00038 (51%) | DB: 0.00023 (30%) | 200 OK [http://test.host/scriptures]
+  [4;35;1mSQL (0.000119)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000107)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Completed in 0.00043 (2335 reqs/sec) | Rendering: 0.00007 (16%) | DB: 0.00023 (52%) | 200 OK [http://test.host/scriptures]
+  [4;35;1mSQL (0.000115)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000169)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00067 (1499 reqs/sec) | Rendering: 0.00028 (42%) | DB: 0.00028 (42%) | 200 OK [http://test.host/scriptures]
+  [4;35;1mSQL (0.000137)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000092)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00064 (1557 reqs/sec) | Rendering: 0.00025 (39%) | DB: 0.00023 (35%) | 200 OK [http://test.host/scriptures]
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000103)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00057 (1744 reqs/sec) | Rendering: 0.00024 (41%) | DB: 0.00023 (39%) | 200 OK [http://test.host/scriptures]
+  [4;35;1mSQL (0.000101)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000101)[0m   [0;1mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 00:08:01) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00063 (1584 reqs/sec) | Rendering: 0.00024 (37%) | DB: 0.00020 (32%) | 200 OK [http://test.host/scriptures]
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000161)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000101)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003380)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000158)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000160)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000135)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003264)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000154)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000137)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000165)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000101)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003295)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000163)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000137)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000175)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000101)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003434)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000163)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000142)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000102)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003411)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000160)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000137)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000152)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000179)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003221)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000146)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000141)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000131)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000180)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000105)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003327)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000165)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000140)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000131)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000158)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000175)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003413)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000163)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000136)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000136)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000115)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000175)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003413)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000164)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000136)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000128)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000126)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000177)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003362)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000162)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000128)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000115)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000112)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000175)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003458)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000162)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000128)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000137)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000127)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000128)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000174)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003323)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000162)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000137)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000158)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000191)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000175)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003350)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000164)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000144)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000117)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000152)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000128)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000152)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003410)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000162)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000141)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000141)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000129)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000201)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000167)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000174)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003414)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000141)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000176)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003289)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000158)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000244)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000143)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000184)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000138)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000146)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000101)[0m   [0mBEGIN[0m
+Rendering /scriptures/show.html.erb
+  [4;36;1mSQL (0.000137)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000145)[0m   [0mBEGIN[0m
+Rendering /scriptures/new.html.erb
+  [4;36;1mSQL (0.000162)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000143)[0m   [0mBEGIN[0m
+Rendering /scriptures/index.html.erb
+  [4;36;1mSQL (0.000160)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000154)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000174)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000110)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000106)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000104)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000113)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000106)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000099)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000103)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000097)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000124)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000127)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000108)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000121)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000104)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000104)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000104)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000104)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000127)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#destroy (for 0.0.0.0 at 2007-12-19 08:58:49) [DELETE]
+  Session ID: 
+  Parameters: {"action"=>"destroy", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures
+Completed in 0.00234 (427 reqs/sec) | DB: 0.00321 (137%) | 302 Found [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000135)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000108)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#destroy (for 0.0.0.0 at 2007-12-19 08:58:49) [DELETE]
+  Session ID: 
+  Parameters: {"action"=>"destroy", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures
+Completed in 0.00030 (3344 reqs/sec) | DB: 0.00024 (81%) | 302 Found [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000118)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000106)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#destroy (for 0.0.0.0 at 2007-12-19 08:58:49) [DELETE]
+  Session ID: 
+  Parameters: {"action"=>"destroy", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures
+Completed in 0.00031 (3226 reqs/sec) | DB: 0.00022 (72%) | 302 Found [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000112)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000149)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 08:58:49) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00070 (1422 reqs/sec) | Rendering: 0.00028 (39%) | DB: 0.00026 (37%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000126)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000161)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 08:58:49) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00048 (2074 reqs/sec) | DB: 0.00029 (59%) | 302 Found [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000112)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000100)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 08:58:49) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00044 (2263 reqs/sec) | DB: 0.00021 (47%) | 302 Found [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000112)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000115)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 08:58:49) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00044 (2251 reqs/sec) | DB: 0.00023 (51%) | 302 Found [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000188)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000089)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#update (for 0.0.0.0 at 2007-12-19 08:58:49) [PUT]
+  Session ID: 
+  Parameters: {"action"=>"update", "id"=>"1", "controller"=>"scriptures"}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00048 (2083 reqs/sec) | DB: 0.00028 (57%) | 302 Found [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000123)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000114)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#create (for 0.0.0.0 at 2007-12-19 08:58:49) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"scriptures", "scripture"=>{}}
+Rendering scriptures/new
+Completed in 0.00066 (1508 reqs/sec) | Rendering: 0.00027 (41%) | DB: 0.00024 (35%) | 200 OK [http://test.host/scriptures?]
+  [4;36;1mSQL (0.000131)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000244)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#create (for 0.0.0.0 at 2007-12-19 08:58:49) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"scriptures", "scripture"=>{}}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00051 (1972 reqs/sec) | DB: 0.00038 (73%) | 302 Found [http://test.host/scriptures?]
+  [4;36;1mSQL (0.000181)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000110)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#create (for 0.0.0.0 at 2007-12-19 08:58:49) [POST]
+  Session ID: 
+  Parameters: {"action"=>"create", "controller"=>"scriptures", "scripture"=>{}}
+Redirected to http://test.host/scriptures/1
+Completed in 0.00048 (2096 reqs/sec) | DB: 0.00029 (61%) | 302 Found [http://test.host/scriptures?]
+  [4;36;1mSQL (0.000149)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000174)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00050 (2007 reqs/sec) | Rendering: 0.00028 (55%) | DB: 0.00032 (64%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;36;1mSQL (0.000138)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000101)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00046 (2192 reqs/sec) | Rendering: 0.00025 (55%) | DB: 0.00024 (52%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;36;1mSQL (0.000143)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000112)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00043 (2299 reqs/sec) | Rendering: 0.00024 (55%) | DB: 0.00025 (58%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;36;1mSQL (0.000125)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000112)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#edit (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"edit", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/edit
+Completed in 0.00044 (2288 reqs/sec) | Rendering: 0.00024 (54%) | DB: 0.00024 (54%) | 200 OK [http://test.host/scriptures/1/edit]
+  [4;36;1mSQL (0.000126)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000131)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00063 (1587 reqs/sec) | Rendering: 0.00026 (41%) | DB: 0.00026 (40%) | 200 OK [http://test.host/scriptures/new]
+  [4;36;1mSQL (0.000129)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00064 (1569 reqs/sec) | Rendering: 0.00027 (42%) | DB: 0.00024 (37%) | 200 OK [http://test.host/scriptures/new]
+  [4;36;1mSQL (0.000134)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000151)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00065 (1529 reqs/sec) | Rendering: 0.00030 (46%) | DB: 0.00028 (43%) | 200 OK [http://test.host/scriptures/new]
+  [4;36;1mSQL (0.000174)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000109)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00062 (1618 reqs/sec) | Rendering: 0.00026 (42%) | DB: 0.00028 (45%) | 200 OK [http://test.host/scriptures/new]
+  [4;36;1mSQL (0.000125)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000100)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#new (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"new", "controller"=>"scriptures"}
+Rendering scriptures/new
+Completed in 0.00057 (1741 reqs/sec) | Rendering: 0.00024 (41%) | DB: 0.00022 (39%) | 200 OK [http://test.host/scriptures/new]
+  [4;36;1mSQL (0.000136)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000130)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Completed in 0.00053 (1872 reqs/sec) | Rendering: 0.00007 (13%) | DB: 0.00027 (49%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000165)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000092)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Completed in 0.00049 (2028 reqs/sec) | Rendering: 0.00008 (16%) | DB: 0.00026 (52%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000139)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000108)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Completed in 0.00044 (2272 reqs/sec) | Rendering: 0.00007 (16%) | DB: 0.00025 (56%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000117)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000130)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00062 (1602 reqs/sec) | Rendering: 0.00027 (43%) | DB: 0.00025 (39%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000125)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000106)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00058 (1721 reqs/sec) | Rendering: 0.00024 (40%) | DB: 0.00023 (39%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000126)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000095)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00064 (1557 reqs/sec) | Rendering: 0.00027 (41%) | DB: 0.00022 (34%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000134)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000106)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#show (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"show", "id"=>"1", "controller"=>"scriptures"}
+Rendering scriptures/show
+Completed in 0.00059 (1698 reqs/sec) | Rendering: 0.00024 (41%) | DB: 0.00024 (40%) | 200 OK [http://test.host/scriptures/1]
+  [4;36;1mSQL (0.000115)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000126)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Completed in 0.00044 (2268 reqs/sec) | Rendering: 0.00007 (15%) | DB: 0.00024 (54%) | 200 OK [http://test.host/scriptures]
+  [4;36;1mSQL (0.000134)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Completed in 0.00074 (1343 reqs/sec) | Rendering: 0.00038 (51%) | DB: 0.00024 (32%) | 200 OK [http://test.host/scriptures]
+  [4;36;1mSQL (0.000117)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Completed in 0.00041 (2414 reqs/sec) | Rendering: 0.00007 (16%) | DB: 0.00022 (54%) | 200 OK [http://test.host/scriptures]
+  [4;36;1mSQL (0.000109)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000217)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00062 (1600 reqs/sec) | Rendering: 0.00027 (43%) | DB: 0.00033 (52%) | 200 OK [http://test.host/scriptures]
+  [4;36;1mSQL (0.000135)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000107)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00072 (1387 reqs/sec) | Rendering: 0.00030 (41%) | DB: 0.00024 (33%) | 200 OK [http://test.host/scriptures]
+  [4;36;1mSQL (0.000148)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000128)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00063 (1582 reqs/sec) | Rendering: 0.00027 (42%) | DB: 0.00028 (43%) | 200 OK [http://test.host/scriptures]
+  [4;36;1mSQL (0.000124)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000099)[0m   [0mBEGIN[0m
+
+
+Processing ScripturesController#index (for 0.0.0.0 at 2007-12-19 08:58:49) [GET]
+  Session ID: 
+  Parameters: {"action"=>"index", "controller"=>"scriptures"}
+Rendering scriptures/index
+Completed in 0.00057 (1754 reqs/sec) | Rendering: 0.00024 (41%) | DB: 0.00022 (39%) | 200 OK [http://test.host/scriptures]
+  [4;36;1mSQL (0.000113)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000148)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000101)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000125)[0m   [0mBEGIN[0m
+Rendering /scriptures/edit.html.erb
+  [4;36;1mSQL (0.000146)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000250)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003856)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000164)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000143)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000135)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000129)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000136)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000173)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000103)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003521)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000169)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000132)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000111)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000132)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000146)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000136)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000173)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000118)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.002808)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000134)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000109)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000103)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000107)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000099)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000088)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000089)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000087)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000097)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000090)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000100)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000087)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000092)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000173)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000100)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003480)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000162)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000134)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000115)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000129)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000135)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000201)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000174)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000106)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003420)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000199)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000113)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000129)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000181)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000182)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000102)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003406)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000167)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000140)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000133)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000115)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000131)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000129)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000161)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000172)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000099)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003751)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000157)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000135)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000147)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000140)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000133)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000158)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000131)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000691)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000143)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000192)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000136)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000284)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000086)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003525)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000165)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000142)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000145)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000153)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000130)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000131)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000124)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000114)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000175)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000232)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000173)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000102)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003653)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000162)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000130)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000127)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000123)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000117)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000138)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000173)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000172)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000173)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000124)[0m   [0mBEGIN[0m
+  [4;36;1mScripture Columns (0.003516)[0m   [0;1mSHOW FIELDS FROM `scriptures`[0m
+  [4;35;1mSQL (0.000157)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000139)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000128)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000134)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000117)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000126)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000134)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000127)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000129)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000136)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000129)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000115)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000125)[0m   [0mROLLBACK[0m
+Spec::Rails::Example::HelperBehaviourController: missing default helper path spec/rails/example/helper_behaviour_helper
+Spec::Rails::Example::ViewExampleGroupController: missing default helper path spec/rails/example/view_example_group_helper
+WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
+  [4;36;1mSQL (0.000218)[0m   [0;1mSET SQL_AUTO_IS_NULL=0[0m
+  [4;35;1mSQL (0.000147)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000136)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000134)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000127)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000134)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000126)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000133)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000126)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000129)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000125)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000135)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000125)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000132)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000133)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000129)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000128)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000133)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000132)[0m   [0;1mROLLBACK[0m

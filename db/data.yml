@@ -1,0 +1,266 @@
+
+--- 
+comments: 
+  columns: 
+  - id
+  - user_id
+  - commentable_id
+  - commentable_type
+  - body
+  - created_at
+  - updated_at
+  records: 
+  - - "10"
+    - "2"
+    - "1"
+    - scripture
+    - I love the reminder that if you believe, you have to act in accordance with this belief.  To often we (or at least I) forget that believing is only the first step of a process, not an end in itself.
+    - 2007-12-28 23:58:10
+    - 2007-12-28 23:58:10
+  - - "11"
+    - "3"
+    - "1"
+    - scripture
+    - |
+      Notice some basic repentance steps: 1. Believe that you need to, 2. Humble yourself, 3. Ask sincerely 
+
+    - 2007-12-29 00:49:24
+    - 2007-12-29 00:49:24
+  - - "12"
+    - "2"
+    - "3"
+    - scripture
+    - |-
+      <p>
+      I love this scripture.  It has been my favorite since just before my mission.
+      </p><p>
+      I think one of the greatest concepts in it is the concept of being filled with light as you keep yourself close to God.
+      </p>
+      <bq>...and the body that is filled with light comprehendeth all things.</bq>
+    - 2008-01-06 12:59:46
+    - 2008-01-06 12:59:46
+  - - "13"
+    - "2"
+    - "3"
+    - scripture
+    - |-
+      <script>
+      print("I'm an injected attack!  Fear me!!!");
+      </script>
+    - 2008-01-06 13:02:01
+    - 2008-01-06 13:02:01
+  - - "14"
+    - "2"
+    - "3"
+    - scripture
+    - While waiting for a temple session to start, I dawned on me that this sounds an aweful lot like a lense.  If your lense is full of light, you can see a lot, and see it clearly.  If, houwever, your lense is dirty and in covered up, what little light gets through is obscured.
+    - 2008-01-19 22:28:35
+    - 2008-01-19 22:28:35
+
+--- 
+links: 
+  columns: 
+  - id
+  - user_id
+  - refered_to_id
+  - refered_from_id
+  - note
+  - created_at
+  - updated_at
+  records: 
+  - - "1"
+    - 
+    - "1"
+    - "2"
+    - I love how it this set of scriptures leads you from believing in Christ takes you to repentance, to what a belief that you must repent means.  I also love the admonition to "do these things"
+    - 2007-12-27 14:29:01
+    - 2007-12-27 14:48:02
+  - - "2"
+    - 
+    - 
+    - 
+    - ""
+    - 2007-12-28 16:37:24
+    - 2007-12-28 16:37:24
+  - - "3"
+    - 
+    - 
+    - 
+    - Sanctifying ourselves requires that we repent and forsake our sins.
+    - 2007-12-28 23:21:32
+    - 2007-12-28 23:21:32
+  - - "4"
+    - 
+    - 
+    - 
+    - test
+    - 2007-12-28 23:23:11
+    - 2007-12-28 23:23:11
+  - - "5"
+    - 
+    - "3"
+    - "4"
+    - Sanctification is obviously a condition, or means to achiving and "eye single" to God's glory.
+    - 2008-01-19 22:24:38
+    - 2008-01-19 22:24:38
+  - - "6"
+    - 
+    - "4"
+    - "3"
+    - Seeing god would of course be the ultimate "comprehension of all things".
+    - 2008-01-19 22:29:21
+    - 2008-01-19 22:29:21
+  - - "7"
+    - 
+    - "4"
+    - "5"
+    - Sanctification = 1.) Repentance, 2.) Exercising Faith, 3. brining forth Good Works, 4. Pryaing Continually (without ceasing)
+    - 2008-01-19 22:50:05
+    - 2008-01-19 22:50:05
+  - - "8"
+    - 
+    - "3"
+    - "5"
+    - "\"...given to reveal things which never have been revealed;\" matches nicely with \"...comprehended all things\""
+    - 2008-01-19 22:58:03
+    - 2008-01-19 22:58:03
+  - - "9"
+    - 
+    - "6"
+    - "3"
+    - God's work and glory.
+    - 2008-01-19 23:02:07
+    - 2008-01-19 23:02:07
+
+--- 
+scriptures: 
+  columns: 
+  - id
+  - book
+  - url
+  - text
+  - created_at
+  - updated_at
+  - chapter
+  - verse
+  - user_id
+  records: 
+  - - "1"
+    - Mosiah
+    - http://scriptures.lds.org/en/mosiah/4/10
+    - And again, believe that ye must repent of your sins and forsake them, and humble yourselves before God; and ask in sincerity of heart that he would forgive you; and now, if you believe all these things see that ye do them.
+    - 2007-12-19 01:27:40
+    - 2007-12-27 22:04:24
+    - "4"
+    - "10"
+    - "2"
+  - - "2"
+    - Heleman
+    - http://scriptures.lds.org/en/hel/14/13
+    - And if ye believe on his name ye will repent of all your sins, that thereby ye may have a remission of them through his merits.
+    - 2007-12-23 15:42:20
+    - 2007-12-23 15:42:20
+    - "14"
+    - "13"
+    - 
+  - - "3"
+    - Doctrine and Covenents
+    - http://scriptures.lds.org/en/dc/88/67
+    - And if your eye be single to my glory, your whole bodies shall be filled with light, and there shall be no darkness in you; and that body which is filled with light comprehendeth all things.
+    - 2007-12-28 23:17:22
+    - 2008-01-19 22:23:09
+    - "88"
+    - "67"
+    - "10662158"
+  - - "4"
+    - Doctrine and Covenants
+    - http://scriptures.lds.org/en/dc/88/68
+    - Therefore, sanctify yourselves that your minds become single to God, and the days will come that you shall see him; for he will unveil his face unto you, and it shall be in his own time, and in his own way, and according to his own will.
+    - 2008-01-19 22:21:33
+    - 2008-01-19 22:53:25
+    - "88"
+    - "68"
+    - "10662158"
+  - - "5"
+    - Alma
+    - http://scriptures.lds.org/en/alma/26/22
+    - Yea, he that repenteth and exerciseth faith, and bringeth forth good works, and prayeth continually without ceasing -- unto such it is given to know the mysteries of God; yea, unto such it shall be given to reveal things which never have been revealed; yea, and it shall be given unto such to bring thousands of souls to repentance, even as it has been given unto us to bring these our brethren to repentance.
+    - 2008-01-19 22:48:52
+    - 2008-01-19 22:48:52
+    - "26"
+    - "22"
+    - "2"
+  - - "6"
+    - Moses
+    - http://scriptures.lds.org/en/moses/1/39
+    - For behold, this is my work and my glory--to bring to pass the immortality and eternal life of man.
+    - 2008-01-19 23:01:33
+    - 2008-01-19 23:01:33
+    - "1"
+    - "39"
+    - "2"
+
+--- 
+users: 
+  columns: 
+  - id
+  - login
+  - email
+  - crypted_password
+  - salt
+  - created_at
+  - updated_at
+  - remember_token
+  - remember_token_expires_at
+  - first_name
+  - last_name
+  - story
+  records: 
+  - - "2"
+    - nathan
+    - nathan@ashleafmedia.com
+    - f575d8a95f1e659ff0c501b85f505229d58ab2da
+    - 3a1d2a67a2a3a2f885678df984e736e03340e55e
+    - 2007-12-25 23:50:09
+    - 2007-12-29 00:19:31
+    - 
+    - 
+    - Nathan
+    - Garza
+    - 
+  - - "3"
+    - nathan2
+    - nathan.garza@gmail.com
+    - 9dd1bbfeb49687cc2d03c16069dd94bed383d59a
+    - cc40150c0731c1d55873c39c9a2fd2bcae6360ef
+    - 2007-12-27 23:38:10
+    - 2007-12-27 23:42:54
+    - 
+    - 
+    - Nathan
+    - Garza
+    - 
+  - - "4"
+    - nathan3
+    - admin@ashleafmedia.com
+    - d72765e5441c85701425477ddeea536761fa7055
+    - e6442c414cdfd478d5566429e1ccbcd4923e0dc6
+    - 2007-12-27 23:51:00
+    - 2007-12-27 23:53:44
+    - 
+    - 
+    - Nathan
+    - Garza
+    - 
+  - - "5"
+    - nathan4
+    - ryan@ashleafmedia.com
+    - e72c3466f4da0701f6e31f86a4402db92375a503
+    - 0672eea66e965afdf7790eab7fad9e18557daa44
+    - 2007-12-27 23:54:15
+    - 2007-12-27 23:56:41
+    - 
+    - 
+    - Nathan
+    - Garza
+    - test

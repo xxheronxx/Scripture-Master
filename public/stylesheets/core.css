@@ -1,0 +1,141 @@
+.clear {
+  clear: both; }
+
+.hidden {
+  display: none; }
+
+body {
+  background-color: #e3eefc;
+  font-family: Verdana;
+  font-size: 14px;
+  margin: 0;
+  padding: 0; }
+
+#page_header, #content, #footer {
+  padding: 10px; }
+
+#page_header {
+  background-color: #366196;
+  margin-top: 0;
+  color: #fff; }
+  #page_header h3 {
+    color: #f9dc5b; }
+  #page_header #main_nav {
+    margin-bottom: 30px; }
+    #page_header #main_nav a {
+      color: #f9dc5b; }
+    #page_header #main_nav a:hover {
+      color: #ffffff; }
+
+#content {
+  background-color: #ffffff;
+  border: 2px solid;
+  border-color: #999999;
+  margin: -25px 40px 0 40px; }
+
+div#scripture_text, #references {
+  float: left; }
+
+div#scripture_text {
+  width: 60%;
+  margin-right: 10px; }
+
+#references {
+  width: 35%;
+  border-left: 2px dashed;
+  border-color: #999999;
+  margin-bottom: 20px; }
+  #references h2, #references p, #references form {
+    margin-left: 10px;
+    margin-right: 10px; }
+  #references form {
+    margin-bottom: 20px; }
+    #references form textarea, #references form input {
+      width: 100%; }
+    #references form textarea {
+      height: 100px; }
+
+#comments {
+  clear: left;
+  border-top: 2px dashed;
+  border-color: #999999; }
+  #comments #comment_form_in_scripture {
+    width: 30%;
+    float: right; }
+    #comments #comment_form_in_scripture textarea {
+      width: 99%;
+      height: 200px; }
+  #comments .comment {
+    margin: 20px 10px;
+    padding: 10px 0;
+    width: 65%;
+    float: left; }
+    #comments .comment .comment_head {
+      width: 170px;
+      float: right; }
+      #comments .comment .comment_head img {
+        width: 80px;
+        float: left; }
+      #comments .comment .comment_head .comment_identification {
+        width: 80px;
+        float: left;
+        margin-left: 10px; }
+        #comments .comment .comment_head .comment_identification h4 {
+          margin-top: 0;
+          margin-bottom: 10px; }
+    #comments .comment p.comment_body {
+      background-color: #ffffcc;
+      margin: 0 10px;
+      width: 55%;
+      padding: 10px 10px 30px 10px;
+      float: right;
+      clear: left; }
+
+#footer {
+  text-align: center; }
+
+.hr {
+  clear: both; }
+  .hr hr {
+    display: none; }
+
+form {
+  padding: 5px 10px; }
+
+fieldset, legend {
+  border: 1px solid;
+  border-color: #ffffff; }
+
+fieldset {
+  background-color: #f9dc5b; }
+
+legend {
+  background-color: #333;
+  padding: 5px;
+  color: #ffffcc; }
+
+label {
+  font-size: 16px; }
+
+input, textarea {
+  border: 1px solid;
+  border-color: #ffffff;
+  background: #ffffcc;
+  font-size: 18px;
+  padding: 2px; }
+
+table tr td.rt {
+  text-align: right; }
+
+#error, #notice, .errorExplanation {
+  padding: 5px; }
+
+#error, .errorExplanation {
+  background-color: #ffcccc;
+  border: 1px solid;
+  border-color: #d98c8c; }
+
+#notice {
+  background-color: #ccffcc;
+  border: 1px solid;
+  border-color: #8cd98c; }

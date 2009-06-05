@@ -1,0 +1,313 @@
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+(eval):11: warning: don't put space before argument parentheses
+(eval):11: warning: parenthesize argument(s) for future version
+(eval):18: warning: don't put space before argument parentheses
+(eval):11: warning: don't put space before argument parentheses
+(eval):11: warning: parenthesize argument(s) for future version
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+(eval):18: warning: don't put space before argument parentheses
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+(eval):18: warning: don't put space before argument parentheses
+/Users/nathan/Sites/rails_apps/ScriptureMaster/app/controllers/comments_controller.rb:44: warning: Object#id will be deprecated; use Object#object_id
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):20: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+/Users/nathan/Sites/rails_apps/ScriptureMaster/app/controllers/scriptures_controller.rb:45: warning: Object#id will be deprecated; use Object#object_id
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+(eval):18: warning: don't put space before argument parentheses
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+(eval):18: warning: don't put space before argument parentheses
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+** Daemonized, any open files are closed.  Look at log/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3010
+** Starting Rails with development environment...
+
+      *******************************************************************
+      * config.breakpoint_server has been deprecated and has no effect. *
+      *******************************************************************
+      
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel available at 0.0.0.0:3010
+** Writing PID file to log/mongrel.pid
+(eval):18: warning: don't put space before argument parentheses
+/Users/nathan/Sites/rails_apps/ScriptureMaster/app/controllers/scriptures_controller.rb:45: warning: Object#id will be deprecated; use Object#object_id

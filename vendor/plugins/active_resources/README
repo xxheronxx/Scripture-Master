@@ -1,0 +1,35 @@
+=ActiveResources
+
+This plugin enables you to do ActiveRecord operations from the client layer through the following components:
+* Route generator creates nested resources based on the AR model class' associations
+  * ActionController::ActiveResources
+* Abstract controller class provides new/create/update/edit/destroy/find operations
+  * Not Implemented Yet
+* JS library creates proxy class to interface to controller API
+  * Not Implemented Yet
+
+==INSTALLATION
+
+Add this line to the top of your routes.rb:
+
+  require 'active_resources' 
+
+==COPYRIGHT
+
+2007, Lone Star Software Engineering Services, Inc.
+
+==LICENSE
+
+:include:MIT-LICENSE
+
+==CREDITS
+
+Author:: Tony Payne <tony@lonestarsoftware.net>
+Company:: Lone Star Software Engineering Services, Inc.
+Homepage:: http://lonestarsoftware.net
+Blog:: http://blog.lonestarsoftware.net
+Repository: http://svn.lonestarsoftware.net/plugins/active_resources/
+
+==VERSION
+
+Version:: 0.1

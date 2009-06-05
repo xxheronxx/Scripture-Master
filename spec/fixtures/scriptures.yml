@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  book: Mosiah
+  chapter: 4
+  verse: 10
+  url: MyString
+  text: MyText
+
+two:
+  book: 1 Nephi
+  chapter: 3
+  verse: 7
+  url: MyString
+  text: MyText

@@ -1,0 +1,15 @@
+= render :partial => "show", :locals => {:c => @comment}
+
+%p
+  %b Commentable:
+  =h @comment.commentable_id
+
+%p
+  %b Commentable type:
+  =h @comment.commentable_type
+
+
+
+= link_to 'Edit', edit_comment_path(@comment)
+\|
+= link_to 'Back', comments_path
